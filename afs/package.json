@@ -6,6 +6,7 @@
     },
     "dependencies": {
         "arches": "archesproject/arches#5913_package_management",
-        "three": "^0.113.2"
+        "three": "^0.113.2",
+        "plotly.js-dist": "^1.52.2"
     }
 }
