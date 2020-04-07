@@ -162,7 +162,7 @@ RENDERERS = [
         "component": "views/components/cards/file-renderers/imagereader",
         "ext": "",
         "type": "image/*",
-        "exclude": "tif,tiff,psd"
+        "exclude": "tif,tiff,psd",
     },
     {
         "name": "xrf-reader",
@@ -183,7 +183,7 @@ RENDERERS = [
         "iconclass": "fa fa-bolt",
         "component": "views/components/cards/file-renderers/raman-reader",
         "ext": "txt",
-        "type": "text/plain",   
+        "type": "text/plain",
         "exclude": "",
     },
     {
