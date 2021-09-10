@@ -550,10 +550,9 @@
 }
 
 .analysis-areas-workflow-regions-step .dataset-table tr {
-    height: 28px;
     display: flex;
     align-items: center;
-    padding-left: 6px;
+    padding: 6px;
 }
 
 .analysis-areas-workflow-regions-step .row.widget-wrapper {
